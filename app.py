@@ -21,14 +21,7 @@ st.set_page_config(
 df = pd.read_csv("powerbi_earnings_dashboard.csv")
 
 # Convert Earnings Date safely
-df["Earnings Date"] = pd.to_datetime(
-    df["Earnings Date"],
-    errors="coerce",
-    format="mixed"
-)
-
-# Remove rows with invalid dates
-df = df.dropna(subset=["Earnings Date"])
+df = pd.read_csv("powerbi_earnings_dashboard.csv")
 # -----------------------------------------
 # SIDEBAR FILTERS
 # -----------------------------------------
