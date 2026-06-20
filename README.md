@@ -2,7 +2,7 @@
 
 ## 🚀 Live Dashboard
 
-https://YOUR-STREAMLIT-APP.streamlit.app
+[https://YOUR-STREAMLIT-APP.streamlit.app](https://event-driven-equity-market-analytics-f4n8mkdll5vnscsajghrfp.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
